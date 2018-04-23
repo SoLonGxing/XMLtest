@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ROOT>
+    <PUBLIC>
+        <BANKID>AA</BANKID>
+        <ROWID>BB</ROWID>
+    </PUBLIC>
+    <PRIVATE>
+        <ERRNO>88</ERRNO>
+        <RECORDS>
+            <RECORD>
+                <RID>1</RID>
+                <RNAME>A</RNAME>
+            </RECORD>
+            <RECORD>
+                <RID>2</RID>
+                <RNAME>B</RNAME>
+            </RECORD>
+            <RECORD>
+                <RID>3</RID>
+                <RNAME>C</RNAME>
+            </RECORD>
+        </RECORDS>
+    </PRIVATE>
+</ROOT>
